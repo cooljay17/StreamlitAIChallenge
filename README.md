@@ -2,6 +2,16 @@
 
 This repository was created for the Streamlit and Snowflake AI Challenge, which is taking place for 30 days in January 2026, led by Chanin Nantasenamat and Jessica Smith.
 
+## 30 days AI Challenge Links
+
+
+[Challenge Github](https://github.com/streamlit/30daysofai/).
+[Challenge Details](https://30daysofai.streamlit.app/)
+
+
+## 30 days AI Challenge Details
+
+
 **Day 1**
 
 Its all about connecting Streamlit app with Snowflake.
