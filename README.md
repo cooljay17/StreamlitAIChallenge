@@ -24,6 +24,12 @@ A streamlit app running an LLM directly inside Snowflake using the Cortex AI_COM
 
 ![Day 2](https://github.com/cooljay17/StreamlitAIChallenge/blob/main/Output/Day2.png)
 
+**Day 3**
+
+A streamlit app where user select a model, enter a prompt, and then stream the response back. Once that's done, display the AI's response in real-time, word by word, as it's being generated.
+
+![Day 3](https://github.com/cooljay17/StreamlitAIChallenge/blob/main/Output/Day3.png)
+
 
 ## Lessons Learned
 
@@ -38,6 +44,9 @@ Special way to run streamlit app is
 streamlit run <project folder>/StreamlitAIChallenge/Streamlitday2.py
 
 AIComplete is the latest version of Complete and is stateless. Given model and prompt, it generates responses based on text or image or graphs etc. 
+
+**Day 3**
+Streaming eliminates long waiting times for a response. Rather than showing a blank screen or ‘Processing Response’, it’s much better to deliver instant output while the remaining response continues to load. 
 
 
 
