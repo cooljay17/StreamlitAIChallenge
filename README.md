@@ -46,7 +46,8 @@ streamlit run <project folder>/StreamlitAIChallenge/Streamlitday2.py
 AIComplete is the latest version of Complete and is stateless. Given model and prompt, it generates responses based on text or image or graphs etc. 
 
 **Day 3**
-Streaming eliminates long waiting times for a response. Rather than showing a blank screen or ‘Processing Response’, it’s much better to deliver instant output while the remaining response continues to load. 
+
+Streaming eliminates long waiting times for a response. Rather than showing a blank screen or ‘Processing Response’, it’s much better to deliver instant output while the remaining response continues to load.
 
 
 
