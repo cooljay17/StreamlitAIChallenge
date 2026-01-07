@@ -36,7 +36,16 @@ A streamlit app  that calls a Snowflake Cortex Large Language Model (LLM). An in
 
 ![Day 4 First Submit](https://github.com/cooljay17/StreamlitAIChallenge/blob/main/Output/Day4_first.png)
 
-![Day 4 Sccond Submit](https://github.com/cooljay17/StreamlitAIChallenge/blob/main/Output/Day4_second.png)
+![Day 4 Second Submit](https://github.com/cooljay17/StreamlitAIChallenge/blob/main/Output/Day4_second.png)
+
+**Day 5**
+
+
+Streamlit web application that generates a professional LinkedIn post. Call Snowflake's Cortex AI function from within the Streamlit app to generate the post content based on user-provided input like a URL, desired tone(Professional/Casual/Funny), and length. Once that's done,display the generated LinkedIn post text in the application's user interface.
+
+![Day 5 Pic1](https://github.com/cooljay17/StreamlitAIChallenge/blob/main/Output/Day5_options.png)
+
+![Day 5 Pic2](https://github.com/cooljay17/StreamlitAIChallenge/blob/main/Output/Day5_funny_response.png)
 
 
 ## Lessons Learned
@@ -65,6 +74,10 @@ Streamlit Cache has limitations. First time I gave a prompt and click submit, I 
 
 
 > st.cache_data and st.cache_resource are not fully supported in Streamlit in Snowflake. Caching only works within a single session. Cached values can’t be carried over to other sessions and shared between different users of a Streamlit app.
+
+**Day 5**
+
+Learned different Streamlit UI components like Slider,select etc.
 
 
 
