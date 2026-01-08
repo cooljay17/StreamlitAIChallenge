@@ -48,6 +48,14 @@ Streamlit web application that generates a professional LinkedIn post. Call Snow
 ![Day 5 Pic2](https://github.com/cooljay17/StreamlitAIChallenge/blob/main/Output/Day5_funny_response.png)
 
 
+**Day 6**
+
+
+ To build a v2 of the "LinkedIn Post Generator" web app. Integrate a Streamlit frontend with Snowflake's Cortex AI to generate text based on user-defined parameters. Particularly, the tool drafts social media content using the Claude 3.5 Sonnet model.
+
+ ![Day 6](https://github.com/cooljay17/StreamlitAIChallenge/blob/main/Output/Day6.png)
+
+
 ## Lessons Learned
 
 **Day 1**
