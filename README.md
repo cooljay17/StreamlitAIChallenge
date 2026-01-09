@@ -56,6 +56,18 @@ Streamlit web application that generates a professional LinkedIn post. Call Snow
  ![Day 6](https://github.com/cooljay17/StreamlitAIChallenge/blob/main/Output/Day6.png)
 
 
+ **Day 7**
+
+
+Building upon the app from Day 6 but this time focusing on theming and layout. Transform the standard functional interface into a polished, branded experience using Streamlit's configuration and layout tools. Once that's done, a "Dark Mode" app with a clean sidebar navigation and custom color, a more professional look and feel is created.
+
+ ![Day 7 part 1](https://github.com/cooljay17/StreamlitAIChallenge/blob/main/Output/Day7_1.png)
+
+ ![Day 7 part 2](https://github.com/cooljay17/StreamlitAIChallenge/blob/main/Output/Day7_2.png)
+
+
+
+
 ## Lessons Learned
 
 **Day 1**
