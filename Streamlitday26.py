@@ -371,7 +371,7 @@ IMPORTANT CONSTRAINTS:
     
     st.code(create_sql, language="sql")
     
-    if st.button(":material/play_arrow: Create Agent", type="primary", use_container_width=True):
+if st.button(":material/play_arrow: Create Agent", type="primary", use_container_width=True):
         try:
             with st.status("Creating agent...") as status:
                 try:

@@ -5,3 +5,5 @@ pypdf
 trulens-core
 trulens-providers-cortex
 trulens-connectors-snowflake
+langchain_core
+langchain_snowflake
